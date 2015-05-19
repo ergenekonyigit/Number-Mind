@@ -23,7 +23,7 @@ int main(void)
             matrix[x][y] = 0;
         }
     }
-
+ 
     //Enter number.
     printf("Please enter the number held[Write line or leaving your space bar]: \n");
 
